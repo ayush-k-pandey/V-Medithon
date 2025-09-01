@@ -1,2 +1,3 @@
-# V-Medithon
-Nexus hackathon 
+# Pseudocoders
+Nexus V-Medithon
+
